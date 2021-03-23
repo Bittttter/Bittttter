@@ -1,2 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bittttter)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bittttter)](https://github.com/anuraghazra/github-readme-stats)
+:construction_worker:  Frontend Engineer
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittttter&theme=tokyonight&hide=python,shell" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=bittttter&show_icons=true&theme=tokyonight&line_height=40&v=5" />
